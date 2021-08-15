@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Ayush Dubey..
+- 👀 I’m interested in developing new things...
+- 🌱 I’m currently learning Frontenddev and  DS algo...
+- 📫 How to reach me ayu16dubey@gmail.com ...
+
+<!---
+ayu15dubey/ayu15dubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
